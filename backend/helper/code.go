@@ -1,0 +1,6 @@
+package helper
+
+var (
+	ERR_NOT_FOUND          = "FILE_NOT_FOUND"
+	INTERNAL_SERVICE_ERROR = "INTERNAL_SERVICE_ERROR"
+)
