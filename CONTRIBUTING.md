@@ -4,7 +4,7 @@
 
 1. Fork this repo
 2. Clone the forked repo to your local
-   `git clone https://github.com/[username]/twb.git`
+   `git clone https://github.com/fydemy/twb.git`
 3. Add new branch
    `git checkout -b [feature]/[name]`
 4. Commit
@@ -29,3 +29,4 @@ Use the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) f
 ## Any Questions?
 
 Go to the `Discussions` tab or visit our Discord Community at [fydemy.com](https://fydemy.com)! 🚀
+
